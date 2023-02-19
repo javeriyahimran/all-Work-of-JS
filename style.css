@@ -1,0 +1,65 @@
+/* body{
+    background-color: orchid
+}
+
+.main{
+    border: 2px solid goldenrod;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.result{
+    width: 95%;
+    background-color: gray;
+    color: antiquewhite;
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: gray;
+    
+}
+
+.btn{
+    width: 45px;
+    background-color: gray;
+    margin: 1px;
+}
+ 
+.halfBtn{
+    background-color: gray;
+    width: 95px;
+    margin-top: 5px;
+} */
+/* 
+.hidden{
+    display: none;
+}
+
+
+.image{
+    width: 500px;
+    height: 500px;
+} */
+
+.small{
+    width: 300px;
+    height: 300px;
+
+}
+
+.big{
+    height: 400px;
+    width: 400px;
+
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.class{
+    color: blueviolet;
+    background-color: aquamarine;
+}
